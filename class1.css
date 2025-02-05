@@ -1,0 +1,16 @@
+.login{
+    background-color: aquamarine;
+}
+.text{
+    color: blue;
+    text-align: center;
+}
+.create{
+    background-color: burlywood;
+}
+.btn{
+    background-color: azure;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 20px;
+}
